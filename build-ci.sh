@@ -1,7 +1,7 @@
 #!/bin/bash
 . "$(dirname $0)/utils.sh"
 
-REL=5.1.5
+REL=5.3.3
 INSTALL_DIR=`pwd`/install
 PACKAGE=`pwd`/swift-${REL}.tgz
 
